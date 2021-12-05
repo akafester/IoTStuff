@@ -1,0 +1,10 @@
+Raspberry Pi 3
+
+Install Screen (apt install screen)
+
+Start Screen with following command:
+
+sudo screen /dev/ttyS0 38400,cs8,noclr
+
+Connect the gateway to the pi.
+
